@@ -1,38 +1,35 @@
 {
     "id": "firemc",
-    "name": "FireMC Network",
-    "store": "https://store.firemc.us/",
+    "name": "FireMC",
+    "website": "https://firemc.fun/",
+    "store": "https://store.firemc.fun/",
     "addresses": [
-        "firemc.us"
+        "play.firemc.fun"
     ],
-    "primaryAddress": "firemc.us",
-    "primaryColor": "#e8282a",
-    "secondaryColor": "#fb7104",
+    "primaryAddress": "play.firemc.fun",
+    "primaryColor": "#ff972a",
+    "secondaryColor": "#17171b",
     "minecraftVersions": [
-        "1.8.*",
-        "1.12.*",
-        "1.16.*",
-        "1.17.*",
-        "1.18.*",
-        "1.19.*",
-        "1.20.*"
+        "1.8.",
+        "1.12.",
+        "1.16.",
+        "1.17.",
+        "1.18.",
+        "1.19.",
+        "1.20"
     ],
-    "primaryMinecraftVersion": "1.8.9",
-    "crossplay": false,
-    "primaryRegion": "NA",
+    "primaryMinecraftVersion": "1.18.2",
+    "crossplay": true,
+    "primaryRegion": "EU",
     "regions": [
-        "NA"
-    ],
-    "primaryLanguage": "es-EN",
-    "languages": [
-        "es-EN",
-        "en"
+        "EU"
     ],
     "gameTypes": [
-        "HCF",
+        "Minigames",
+        "Lifesteal",
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/XXt8ksWPHG"
+        "discord": "https://discord.com/invite/firemc"
     }
 }
